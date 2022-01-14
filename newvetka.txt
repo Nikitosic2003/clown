@@ -1,0 +1,4 @@
+info.txt
+log.log
+.gitignore
+newvetka.txt
